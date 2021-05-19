@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "githubsearcher-adfc9": {
+      "hosting": {
+        "github-login-firebase": [
+          "githubsearcher-adfc9"
+        ]
+      }
+    }
+  }
+}
